@@ -1,0 +1,1001 @@
+flower_name,color,petal_count,bloom_season,average_height,sunlight_requirement,watering_frequency,bloom_color,height_cm
+Ced,Violet,72,Winter,35.31,Partial Sun,Weekly,White,176
+Tersina,Teal,55,Fall,42.11,Shade,Daily,Purple,71
+Happy,Crimson,33,Winter,25.0,Full Sun,Daily,Yellow,181
+Karita,Aquamarine,9,Spring,41.67,Partial Sun,Bi-weekly,Red,15
+Saul,Goldenrod,90,Fall,56.45,Full Sun,Daily,Yellow,157
+Vera,Turquoise,59,Summer,19.7,Shade,Daily,Red,158
+Susette,Fuscia,58,Summer,9.97,Full Sun,Weekly,Pink,77
+Sisile,Teal,32,Summer,46.82,Partial Sun,Bi-weekly,Purple,40
+Melania,Green,86,Winter,51.61,Full Sun,Bi-weekly,Yellow,20
+Robby,Goldenrod,57,Spring,50.32,Partial Sun,Weekly,White,68
+Nanette,Pink,20,Spring,38.96,Full Sun,Daily,Yellow,68
+Berkeley,Orange,7,Summer,34.55,Full Sun,Weekly,White,139
+Sig,Maroon,54,Spring,19.8,Partial Sun,Weekly,Red,37
+Amelie,Crimson,72,Summer,14.36,Partial Sun,Weekly,Pink,87
+Giustina,Mauv,81,Summer,31.69,Partial Sun,Daily,Yellow,182
+Kelli,Maroon,5,Winter,44.95,Shade,Daily,Red,113
+Carlo,Crimson,100,Fall,50.82,Full Sun,Daily,Purple,132
+Georges,Violet,85,Summer,34.48,Shade,Daily,Red,187
+Jessalyn,Indigo,44,Spring,28.21,Partial Sun,Weekly,Pink,34
+Edin,Teal,18,Spring,47.37,Full Sun,Daily,Purple,34
+Corabella,Crimson,78,Fall,16.58,Shade,Weekly,Pink,33
+Bernadette,Pink,80,Winter,24.21,Full Sun,Bi-weekly,White,190
+Kendre,Orange,49,Winter,36.81,Shade,Bi-weekly,Purple,75
+Morly,Violet,55,Fall,49.01,Shade,Daily,Pink,126
+Krystle,Violet,44,Winter,45.68,Shade,Bi-weekly,Yellow,78
+Porty,Indigo,15,Spring,19.86,Full Sun,Daily,Purple,75
+Brinna,Mauv,23,Fall,12.44,Partial Sun,Weekly,Yellow,84
+Raffaello,Pink,78,Summer,51.74,Shade,Daily,Purple,117
+Silvio,Crimson,92,Fall,34.82,Full Sun,Daily,White,32
+Costa,Red,39,Summer,9.31,Full Sun,Bi-weekly,White,159
+Gwendolyn,Aquamarine,87,Spring,17.9,Shade,Weekly,Yellow,32
+Darrin,Fuscia,36,Winter,41.39,Shade,Weekly,Pink,187
+Crissie,Pink,15,Summer,51.9,Partial Sun,Bi-weekly,White,70
+Eward,Green,87,Winter,41.38,Partial Sun,Weekly,Red,11
+Gibby,Maroon,15,Fall,33.01,Full Sun,Weekly,Yellow,189
+Bridie,Aquamarine,67,Summer,23.15,Partial Sun,Bi-weekly,Pink,30
+Pat,Maroon,79,Fall,49.33,Shade,Bi-weekly,Red,138
+Roberta,Maroon,33,Winter,38.27,Shade,Weekly,Yellow,158
+Junie,Orange,16,Fall,39.92,Full Sun,Daily,Pink,171
+Kaycee,Purple,60,Fall,45.56,Full Sun,Bi-weekly,Pink,53
+Wolfgang,Yellow,64,Summer,23.77,Shade,Daily,Red,133
+Bendix,Orange,37,Winter,58.5,Shade,Weekly,White,135
+Rourke,Khaki,44,Winter,40.25,Full Sun,Weekly,Yellow,44
+York,Puce,77,Spring,23.67,Full Sun,Weekly,Purple,157
+Theda,Crimson,8,Winter,37.54,Full Sun,Weekly,Purple,23
+Lynnet,Khaki,73,Spring,37.37,Full Sun,Daily,Yellow,52
+Siana,Puce,10,Fall,22.14,Partial Sun,Daily,Purple,26
+Emilie,Pink,39,Spring,58.11,Shade,Daily,Pink,63
+Hermina,Yellow,38,Summer,37.13,Partial Sun,Bi-weekly,Purple,55
+Jackquelin,Green,60,Summer,52.83,Partial Sun,Daily,Purple,95
+Madalena,Violet,66,Spring,40.64,Partial Sun,Weekly,White,149
+Eran,Purple,48,Summer,56.49,Partial Sun,Daily,Red,67
+Alidia,Teal,46,Spring,47.47,Full Sun,Daily,Purple,88
+Filia,Khaki,36,Fall,9.73,Full Sun,Daily,Pink,125
+Wilek,Khaki,55,Summer,57.64,Shade,Daily,Red,169
+Jody,Fuscia,100,Spring,43.19,Shade,Daily,Purple,101
+Bron,Maroon,51,Fall,33.76,Partial Sun,Bi-weekly,Purple,175
+Penny,Khaki,68,Spring,44.15,Shade,Daily,White,50
+Arden,Red,69,Winter,51.7,Shade,Bi-weekly,Yellow,39
+Kathryn,Teal,15,Winter,53.88,Full Sun,Weekly,White,184
+Bartolemo,Khaki,69,Summer,13.91,Partial Sun,Bi-weekly,White,176
+Wesley,Fuscia,78,Summer,33.3,Shade,Daily,Yellow,80
+Amby,Indigo,30,Fall,56.75,Full Sun,Bi-weekly,White,183
+Jaymee,Crimson,85,Fall,13.94,Partial Sun,Bi-weekly,Red,72
+Josi,Pink,72,Summer,35.5,Partial Sun,Daily,Purple,88
+Jocelin,Violet,31,Summer,7.77,Full Sun,Bi-weekly,White,146
+Fowler,Violet,67,Summer,47.44,Partial Sun,Weekly,Yellow,166
+Hannie,Turquoise,39,Winter,37.45,Shade,Bi-weekly,White,174
+Dolorita,Crimson,10,Summer,57.78,Partial Sun,Daily,Purple,50
+Rutherford,Crimson,91,Summer,59.78,Shade,Weekly,Yellow,18
+Rutger,Blue,91,Winter,21.7,Full Sun,Bi-weekly,Purple,197
+Leonora,Turquoise,72,Winter,39.86,Shade,Daily,Purple,69
+Alanson,Teal,63,Summer,47.77,Partial Sun,Bi-weekly,Purple,100
+Sarajane,Orange,35,Summer,53.92,Full Sun,Bi-weekly,Purple,158
+Ag,Indigo,14,Spring,58.15,Partial Sun,Daily,Pink,76
+Harry,Crimson,39,Winter,48.84,Partial Sun,Daily,Pink,75
+Mandy,Green,17,Winter,23.18,Shade,Daily,Yellow,131
+Antin,Puce,12,Spring,23.13,Partial Sun,Daily,Red,87
+Garrott,Aquamarine,80,Winter,38.3,Full Sun,Weekly,Purple,146
+Ulla,Mauv,37,Winter,29.93,Partial Sun,Daily,White,72
+Brynna,Pink,24,Fall,25.31,Partial Sun,Bi-weekly,Yellow,160
+Padraig,Aquamarine,47,Fall,31.92,Shade,Weekly,Yellow,71
+Annabal,Violet,88,Winter,10.45,Full Sun,Daily,Purple,150
+Francesca,Khaki,95,Summer,34.23,Shade,Daily,White,173
+Marv,Maroon,8,Spring,39.75,Full Sun,Weekly,Pink,35
+Alyss,Mauv,5,Fall,49.79,Full Sun,Weekly,Red,36
+Kevyn,Crimson,76,Summer,55.64,Full Sun,Bi-weekly,White,190
+Leila,Teal,58,Spring,49.01,Partial Sun,Bi-weekly,Red,172
+Franky,Puce,55,Spring,36.25,Partial Sun,Weekly,Yellow,108
+Vilhelmina,Turquoise,45,Spring,46.51,Full Sun,Bi-weekly,White,164
+Maureene,Red,8,Fall,43.54,Partial Sun,Weekly,Red,84
+Bernice,Turquoise,59,Summer,23.17,Shade,Weekly,White,48
+Lorelle,Turquoise,27,Fall,8.47,Shade,Daily,Pink,118
+Ursuline,Turquoise,11,Spring,50.22,Shade,Daily,Purple,200
+Tova,Turquoise,30,Summer,44.43,Shade,Bi-weekly,Red,136
+Florella,Purple,67,Winter,25.61,Shade,Bi-weekly,Red,123
+Hugh,Green,85,Spring,23.9,Full Sun,Bi-weekly,Red,79
+Madlen,Purple,69,Fall,48.01,Partial Sun,Daily,Yellow,136
+Allina,Yellow,21,Spring,49.23,Shade,Daily,Pink,94
+Kelcey,Pink,24,Fall,31.57,Partial Sun,Weekly,Purple,181
+Gwenni,Violet,76,Spring,45.09,Shade,Daily,Yellow,79
+Evy,Mauv,28,Spring,35.36,Partial Sun,Bi-weekly,Pink,99
+Gwyn,Yellow,24,Summer,43.94,Full Sun,Bi-weekly,Yellow,115
+Ebenezer,Turquoise,98,Fall,43.26,Shade,Bi-weekly,White,200
+Lyndel,Purple,33,Summer,45.55,Full Sun,Weekly,Pink,59
+Ursa,Pink,5,Summer,55.7,Full Sun,Weekly,Pink,81
+Justus,Indigo,42,Fall,28.96,Partial Sun,Daily,Purple,33
+Tani,Pink,70,Summer,23.49,Full Sun,Bi-weekly,Purple,150
+Leonid,Yellow,13,Fall,27.98,Full Sun,Bi-weekly,Yellow,111
+Arleta,Crimson,30,Summer,14.37,Shade,Daily,Yellow,56
+Joyous,Crimson,38,Winter,25.98,Partial Sun,Weekly,White,63
+Britt,Aquamarine,96,Winter,31.59,Partial Sun,Daily,Red,113
+Arley,Green,9,Spring,8.17,Partial Sun,Bi-weekly,White,195
+Katrinka,Purple,68,Winter,37.06,Partial Sun,Weekly,Purple,179
+Dorrie,Yellow,47,Summer,21.09,Full Sun,Daily,Red,103
+Guthrie,Teal,90,Spring,23.43,Shade,Weekly,Purple,186
+Goldi,Khaki,16,Spring,20.3,Partial Sun,Bi-weekly,Red,66
+Opalina,Fuscia,43,Summer,57.53,Partial Sun,Weekly,Red,16
+Casie,Crimson,31,Winter,48.85,Full Sun,Weekly,Purple,161
+Tracee,Crimson,91,Spring,25.48,Partial Sun,Weekly,Yellow,178
+Callida,Pink,23,Winter,59.19,Full Sun,Daily,White,30
+Lukas,Orange,70,Summer,34.37,Shade,Weekly,White,16
+Sibelle,Red,45,Summer,57.98,Shade,Daily,Pink,38
+Lela,Puce,39,Summer,59.41,Full Sun,Bi-weekly,Red,116
+Olympe,Teal,33,Spring,52.16,Full Sun,Weekly,Pink,126
+Magdalene,Aquamarine,95,Summer,59.3,Full Sun,Bi-weekly,Pink,163
+Cammy,Blue,38,Winter,23.86,Full Sun,Daily,Red,112
+Ancell,Crimson,53,Spring,11.82,Shade,Daily,Red,35
+Ingemar,Pink,50,Spring,11.3,Shade,Weekly,Red,187
+Halette,Pink,87,Fall,51.51,Full Sun,Bi-weekly,Pink,195
+Bartram,Teal,75,Summer,18.24,Full Sun,Weekly,White,155
+Bogart,Yellow,26,Fall,18.73,Full Sun,Daily,Red,68
+Eleonore,Violet,70,Summer,22.82,Shade,Bi-weekly,Pink,76
+Bendix,Violet,48,Fall,45.89,Shade,Weekly,Purple,134
+Burgess,Green,60,Fall,23.27,Full Sun,Daily,White,157
+Jasper,Maroon,50,Summer,19.32,Full Sun,Weekly,Red,115
+Costanza,Pink,73,Winter,39.8,Shade,Weekly,Purple,162
+Rodolph,Puce,70,Summer,57.48,Full Sun,Daily,Pink,165
+Dyna,Indigo,86,Winter,10.95,Full Sun,Weekly,Pink,145
+Candace,Teal,12,Fall,20.13,Shade,Daily,Purple,134
+Halette,Purple,28,Summer,43.54,Partial Sun,Bi-weekly,Purple,87
+Ceil,Fuscia,74,Winter,19.01,Full Sun,Bi-weekly,Red,113
+Filberte,Indigo,30,Spring,47.06,Shade,Bi-weekly,Pink,69
+Leanora,Goldenrod,57,Spring,45.81,Partial Sun,Bi-weekly,Purple,42
+Farrand,Crimson,85,Summer,22.05,Partial Sun,Bi-weekly,White,173
+Barbey,Goldenrod,25,Fall,9.57,Partial Sun,Bi-weekly,Yellow,15
+Bartram,Indigo,21,Fall,59.77,Shade,Daily,Yellow,170
+Yancey,Green,76,Fall,57.46,Full Sun,Bi-weekly,Yellow,68
+Gannie,Indigo,94,Spring,42.54,Shade,Weekly,White,24
+Mallorie,Red,92,Winter,29.77,Partial Sun,Bi-weekly,Purple,20
+Connie,Turquoise,57,Spring,17.54,Full Sun,Bi-weekly,Yellow,27
+Danya,Red,58,Fall,12.72,Full Sun,Daily,Purple,32
+Field,Yellow,84,Winter,36.65,Shade,Weekly,Yellow,178
+Kaycee,Puce,71,Summer,26.18,Shade,Bi-weekly,Red,167
+Todd,Turquoise,21,Winter,29.23,Partial Sun,Weekly,White,154
+Akim,Fuscia,52,Summer,51.68,Shade,Bi-weekly,Yellow,132
+Derron,Goldenrod,93,Summer,22.56,Full Sun,Weekly,White,176
+Trevor,Green,14,Fall,56.62,Shade,Daily,Yellow,86
+Pablo,Yellow,46,Spring,22.22,Partial Sun,Weekly,Red,44
+Alister,Yellow,86,Winter,58.61,Shade,Bi-weekly,Red,23
+Tait,Mauv,43,Fall,31.68,Shade,Weekly,Pink,108
+Jdavie,Goldenrod,64,Winter,14.25,Shade,Weekly,Red,62
+Raul,Pink,69,Winter,15.88,Shade,Daily,Red,90
+Adolf,Maroon,91,Winter,52.99,Shade,Weekly,Purple,126
+Elana,Blue,75,Winter,42.23,Shade,Daily,Purple,128
+Mae,Goldenrod,29,Spring,55.08,Partial Sun,Bi-weekly,Yellow,142
+Lorilyn,Red,37,Winter,10.66,Full Sun,Bi-weekly,White,53
+Kelley,Orange,45,Spring,22.52,Full Sun,Bi-weekly,Pink,33
+Charmion,Khaki,30,Summer,57.96,Shade,Bi-weekly,Purple,181
+Kaylil,Teal,79,Spring,6.4,Full Sun,Weekly,Pink,169
+Hyacinth,Pink,32,Spring,35.91,Full Sun,Bi-weekly,Pink,54
+Mauricio,Mauv,73,Spring,10.76,Shade,Weekly,Purple,72
+Shelly,Aquamarine,53,Fall,56.75,Full Sun,Bi-weekly,White,174
+Berti,Blue,19,Fall,58.49,Shade,Weekly,Pink,161
+Earl,Yellow,71,Summer,41.04,Partial Sun,Bi-weekly,Yellow,18
+Darrelle,Pink,50,Winter,58.79,Partial Sun,Weekly,Yellow,198
+Portia,Orange,29,Summer,27.5,Full Sun,Weekly,Red,40
+Maddy,Orange,93,Winter,29.01,Partial Sun,Weekly,Yellow,155
+Allx,Red,57,Summer,30.02,Full Sun,Daily,Yellow,81
+Nathanil,Crimson,40,Fall,52.78,Shade,Daily,Red,119
+Ernestus,Green,97,Winter,21.01,Partial Sun,Daily,White,49
+Rube,Crimson,10,Fall,12.42,Partial Sun,Bi-weekly,Pink,138
+Aliza,Mauv,11,Summer,13.06,Partial Sun,Bi-weekly,Yellow,182
+Corie,Khaki,50,Fall,27.2,Full Sun,Weekly,Red,88
+Zacharia,Yellow,52,Fall,31.78,Partial Sun,Weekly,White,27
+Randie,Purple,93,Fall,33.54,Partial Sun,Daily,Yellow,32
+Thorpe,Khaki,40,Winter,54.35,Partial Sun,Daily,Red,127
+Giselbert,Crimson,25,Spring,50.2,Partial Sun,Bi-weekly,Yellow,67
+Raynor,Aquamarine,45,Fall,30.13,Partial Sun,Bi-weekly,Purple,86
+Perri,Blue,75,Summer,55.8,Full Sun,Bi-weekly,Red,152
+Bronnie,Teal,38,Winter,12.62,Partial Sun,Daily,White,162
+Tarrance,Blue,93,Winter,32.98,Shade,Bi-weekly,Yellow,128
+Robbie,Green,14,Summer,48.22,Partial Sun,Bi-weekly,Pink,182
+Jewell,Fuscia,27,Winter,17.56,Shade,Bi-weekly,Yellow,199
+Herby,Blue,68,Winter,34.94,Partial Sun,Weekly,Red,159
+Reinaldos,Puce,98,Summer,52.42,Shade,Bi-weekly,Yellow,192
+Waring,Orange,41,Fall,57.72,Partial Sun,Weekly,Purple,74
+Flossi,Purple,53,Summer,39.47,Partial Sun,Bi-weekly,Yellow,19
+Mayne,Violet,32,Summer,8.56,Shade,Bi-weekly,Red,165
+Teddy,Maroon,59,Winter,9.19,Full Sun,Weekly,Red,60
+Aubert,Green,92,Fall,28.52,Shade,Bi-weekly,Purple,36
+Lavinie,Mauv,71,Spring,30.67,Full Sun,Daily,Purple,49
+Kellen,Orange,42,Spring,30.77,Shade,Weekly,Yellow,123
+Patrice,Turquoise,73,Spring,58.92,Partial Sun,Weekly,Purple,158
+Sergio,Purple,79,Winter,12.35,Full Sun,Weekly,White,132
+Enrika,Red,20,Summer,20.5,Full Sun,Bi-weekly,White,78
+Bobbi,Indigo,62,Winter,38.33,Shade,Weekly,Yellow,190
+Igor,Red,5,Spring,15.39,Shade,Bi-weekly,Purple,169
+Obie,Violet,38,Spring,42.87,Shade,Daily,Pink,94
+Clemens,Turquoise,39,Summer,51.42,Shade,Weekly,Yellow,153
+Carmine,Blue,11,Fall,58.31,Shade,Bi-weekly,White,121
+Alwin,Khaki,7,Summer,45.53,Full Sun,Weekly,Red,53
+Amie,Crimson,32,Summer,36.39,Full Sun,Weekly,Pink,91
+Noelle,Maroon,33,Fall,16.61,Shade,Bi-weekly,Yellow,184
+Boycie,Puce,9,Fall,35.87,Full Sun,Weekly,Purple,40
+Janet,Maroon,29,Winter,39.64,Full Sun,Daily,Pink,51
+Lanny,Purple,79,Winter,7.31,Full Sun,Weekly,Yellow,42
+Joceline,Yellow,73,Fall,6.6,Full Sun,Daily,White,173
+Stanfield,Green,35,Fall,18.05,Shade,Bi-weekly,Purple,123
+Britt,Khaki,99,Fall,8.14,Partial Sun,Weekly,Red,145
+Kamila,Orange,94,Fall,52.32,Partial Sun,Bi-weekly,Yellow,63
+Bone,Aquamarine,67,Summer,44.25,Partial Sun,Bi-weekly,Yellow,191
+Jaclin,Red,26,Winter,17.72,Shade,Bi-weekly,White,116
+Sofie,Blue,90,Spring,13.44,Shade,Bi-weekly,White,31
+Heindrick,Aquamarine,10,Summer,13.83,Shade,Daily,Red,164
+Myrtice,Mauv,94,Summer,9.88,Full Sun,Weekly,Red,125
+Rey,Blue,90,Summer,46.69,Shade,Weekly,White,110
+Jojo,Orange,26,Winter,53.09,Partial Sun,Daily,Red,137
+Osgood,Violet,14,Spring,35.82,Partial Sun,Bi-weekly,Purple,180
+Carling,Purple,71,Summer,11.39,Partial Sun,Daily,Pink,171
+Evangelin,Pink,93,Spring,59.48,Full Sun,Weekly,White,122
+Graehme,Pink,60,Fall,55.7,Shade,Daily,Purple,73
+Sofia,Crimson,14,Winter,20.43,Full Sun,Bi-weekly,Yellow,160
+Valaria,Violet,93,Fall,8.82,Partial Sun,Bi-weekly,White,196
+Meredith,Mauv,78,Spring,42.05,Full Sun,Daily,Red,122
+Edithe,Pink,30,Spring,21.73,Partial Sun,Daily,Red,78
+Hartley,Goldenrod,94,Summer,36.3,Full Sun,Bi-weekly,Yellow,137
+Merrill,Orange,30,Summer,20.83,Partial Sun,Bi-weekly,Yellow,35
+Bartholemy,Pink,56,Summer,42.25,Shade,Bi-weekly,Yellow,198
+Morly,Pink,35,Fall,58.72,Full Sun,Weekly,Pink,84
+Nerita,Blue,62,Summer,11.83,Partial Sun,Daily,White,176
+Jenica,Teal,9,Fall,54.06,Partial Sun,Daily,White,47
+Lyn,Goldenrod,74,Fall,34.81,Full Sun,Weekly,Pink,40
+Gabey,Violet,68,Winter,46.64,Shade,Bi-weekly,Pink,47
+Vidovic,Mauv,42,Winter,55.8,Shade,Daily,Yellow,19
+Nicholle,Pink,28,Winter,45.63,Shade,Bi-weekly,Red,15
+Heinrik,Green,54,Winter,6.43,Shade,Bi-weekly,Yellow,104
+Nick,Khaki,38,Spring,7.25,Partial Sun,Bi-weekly,Purple,200
+Kinsley,Maroon,16,Summer,6.96,Full Sun,Daily,White,65
+Meggie,Goldenrod,71,Fall,20.79,Partial Sun,Weekly,White,80
+Nanice,Yellow,45,Fall,17.0,Full Sun,Weekly,Pink,96
+Marsha,Purple,73,Summer,31.09,Shade,Bi-weekly,Pink,53
+Felice,Turquoise,22,Summer,35.96,Shade,Weekly,Red,18
+Carita,Indigo,6,Fall,26.45,Partial Sun,Bi-weekly,White,165
+Fionnula,Mauv,49,Winter,55.79,Partial Sun,Daily,White,109
+Calvin,Aquamarine,88,Summer,33.29,Shade,Daily,White,27
+Brander,Blue,87,Winter,19.68,Full Sun,Daily,Yellow,198
+Guendolen,Violet,14,Spring,52.7,Partial Sun,Bi-weekly,Red,43
+Kellia,Red,36,Summer,56.77,Shade,Weekly,White,145
+Kanya,Goldenrod,97,Summer,39.37,Partial Sun,Daily,Purple,14
+Lance,Orange,46,Fall,54.26,Full Sun,Weekly,Yellow,74
+Ginelle,Aquamarine,36,Spring,57.63,Shade,Bi-weekly,Red,126
+Timotheus,Yellow,8,Fall,36.24,Shade,Daily,Yellow,153
+Devin,Orange,53,Spring,29.81,Full Sun,Bi-weekly,Purple,114
+Pattie,Violet,33,Fall,39.65,Shade,Weekly,Red,83
+Rick,Teal,76,Winter,51.0,Partial Sun,Bi-weekly,Pink,117
+Kingston,Khaki,48,Spring,50.68,Full Sun,Weekly,Purple,39
+Garvy,Maroon,41,Summer,45.87,Full Sun,Daily,Yellow,109
+Tonie,Red,22,Winter,39.17,Partial Sun,Bi-weekly,White,147
+Harlene,Violet,88,Winter,8.81,Partial Sun,Bi-weekly,White,122
+Hector,Orange,63,Winter,11.21,Partial Sun,Bi-weekly,Purple,95
+Barbee,Turquoise,40,Fall,41.4,Partial Sun,Weekly,Purple,136
+Irwinn,Green,60,Spring,47.0,Full Sun,Weekly,Yellow,39
+Erin,Crimson,59,Summer,8.37,Shade,Bi-weekly,Pink,51
+Dore,Khaki,49,Fall,7.2,Full Sun,Bi-weekly,Purple,16
+Emmy,Red,43,Spring,54.8,Partial Sun,Bi-weekly,White,64
+Nadine,Orange,26,Summer,29.15,Partial Sun,Weekly,White,197
+Emily,Puce,18,Fall,10.9,Shade,Daily,White,131
+Isabel,Mauv,20,Summer,54.87,Full Sun,Daily,Purple,166
+Caril,Aquamarine,74,Spring,7.92,Full Sun,Weekly,Pink,68
+Lelia,Pink,38,Winter,27.18,Partial Sun,Weekly,Yellow,45
+Frederique,Purple,52,Summer,47.97,Shade,Daily,White,96
+Todd,Turquoise,76,Winter,24.44,Partial Sun,Daily,Purple,149
+Karrie,Puce,27,Fall,57.57,Partial Sun,Bi-weekly,Red,160
+Catlee,Fuscia,17,Spring,20.51,Partial Sun,Weekly,Purple,89
+Udell,Purple,69,Summer,56.71,Full Sun,Weekly,Red,171
+Gilberte,Fuscia,80,Winter,57.21,Full Sun,Bi-weekly,Red,21
+Alis,Turquoise,67,Summer,29.34,Full Sun,Daily,Red,46
+Dulcia,Orange,96,Winter,26.09,Full Sun,Weekly,Red,148
+Ermina,Red,78,Fall,52.82,Full Sun,Bi-weekly,Pink,109
+Cly,Khaki,40,Spring,22.06,Partial Sun,Daily,Pink,133
+Kai,Goldenrod,77,Fall,21.16,Shade,Bi-weekly,Yellow,89
+Teresa,Indigo,64,Fall,54.03,Partial Sun,Daily,Purple,10
+Rheba,Violet,51,Summer,25.27,Shade,Daily,Red,188
+Carlos,Turquoise,52,Winter,26.54,Full Sun,Bi-weekly,White,140
+Bebe,Teal,48,Summer,25.16,Full Sun,Daily,Yellow,125
+Jessica,Orange,56,Winter,16.06,Full Sun,Daily,White,146
+Ulrich,Indigo,89,Fall,59.64,Partial Sun,Weekly,Yellow,182
+Ola,Green,21,Winter,20.22,Shade,Bi-weekly,Red,191
+Bettine,Blue,78,Winter,12.46,Shade,Weekly,Pink,148
+Langsdon,Turquoise,95,Winter,41.45,Full Sun,Bi-weekly,Yellow,133
+Gwenny,Pink,27,Winter,39.92,Partial Sun,Weekly,Red,168
+Natalee,Khaki,84,Winter,7.16,Partial Sun,Bi-weekly,Yellow,195
+Iolanthe,Fuscia,58,Winter,52.48,Full Sun,Daily,White,150
+Hirsch,Goldenrod,5,Spring,8.35,Full Sun,Daily,Pink,167
+Gerda,Aquamarine,19,Winter,8.61,Partial Sun,Daily,Yellow,122
+Ema,Mauv,46,Fall,32.41,Full Sun,Bi-weekly,White,115
+Sarette,Fuscia,77,Fall,43.75,Shade,Bi-weekly,Yellow,70
+Aggi,Maroon,32,Summer,20.65,Partial Sun,Bi-weekly,White,35
+Britta,Green,94,Fall,24.16,Shade,Weekly,Red,118
+Kelsi,Crimson,62,Fall,24.32,Full Sun,Bi-weekly,White,131
+Chery,Green,87,Spring,36.67,Shade,Bi-weekly,Yellow,35
+Adelbert,Green,85,Spring,39.23,Shade,Daily,Purple,155
+Spencer,Blue,9,Summer,10.62,Full Sun,Weekly,Yellow,158
+Florenza,Aquamarine,90,Summer,19.74,Shade,Weekly,Yellow,125
+Michael,Turquoise,7,Fall,55.7,Full Sun,Weekly,Purple,76
+Bentley,Goldenrod,84,Winter,51.87,Shade,Bi-weekly,Red,65
+Quinn,Pink,95,Fall,22.31,Shade,Weekly,Pink,166
+Octavius,Pink,75,Winter,53.64,Shade,Bi-weekly,Purple,197
+Novelia,Puce,60,Summer,23.6,Shade,Weekly,Red,87
+Jereme,Puce,40,Fall,51.23,Partial Sun,Daily,Yellow,193
+Ulrike,Crimson,24,Summer,19.66,Partial Sun,Weekly,White,47
+Sayre,Violet,59,Fall,54.65,Partial Sun,Bi-weekly,Red,186
+Staci,Teal,7,Fall,17.42,Shade,Weekly,Red,200
+Donielle,Blue,5,Winter,41.34,Partial Sun,Weekly,White,62
+Felecia,Maroon,48,Winter,47.73,Full Sun,Weekly,White,71
+Dominique,Goldenrod,54,Winter,8.8,Partial Sun,Weekly,White,65
+Saraann,Green,40,Summer,48.1,Full Sun,Daily,Pink,144
+Thorvald,Indigo,72,Spring,41.92,Shade,Daily,Red,14
+Saree,Orange,93,Spring,29.78,Full Sun,Weekly,White,158
+Merrel,Blue,76,Spring,13.42,Full Sun,Bi-weekly,Red,110
+Olly,Crimson,32,Summer,26.64,Partial Sun,Bi-weekly,Yellow,195
+Justen,Pink,30,Summer,32.07,Shade,Bi-weekly,Yellow,152
+Kelci,Indigo,19,Spring,39.55,Full Sun,Daily,Red,174
+Rhett,Orange,26,Summer,50.47,Shade,Daily,Red,84
+Dorey,Aquamarine,61,Spring,38.75,Partial Sun,Bi-weekly,Pink,53
+Galvin,Orange,86,Fall,23.39,Shade,Bi-weekly,White,102
+Lucine,Red,10,Winter,35.72,Shade,Bi-weekly,Red,99
+Prescott,Crimson,39,Winter,36.22,Partial Sun,Daily,Red,100
+Sammy,Khaki,61,Winter,53.98,Partial Sun,Weekly,Yellow,105
+Sidonnie,Goldenrod,88,Summer,57.71,Shade,Bi-weekly,Purple,41
+Charla,Purple,11,Summer,42.69,Shade,Bi-weekly,Yellow,190
+Vanya,Orange,98,Summer,37.13,Shade,Weekly,Yellow,172
+Krissy,Blue,21,Summer,32.74,Shade,Bi-weekly,Purple,61
+Vale,Blue,63,Fall,33.03,Shade,Daily,White,36
+Traver,Violet,23,Fall,53.16,Shade,Daily,Purple,163
+Bettina,Purple,78,Summer,6.93,Full Sun,Weekly,White,108
+Philippe,Aquamarine,69,Spring,39.57,Shade,Weekly,White,141
+Lock,Puce,12,Winter,59.44,Full Sun,Weekly,Pink,130
+Sherill,Puce,89,Fall,50.26,Partial Sun,Bi-weekly,Purple,153
+Hunt,Orange,25,Summer,11.24,Shade,Weekly,Red,110
+Etta,Teal,67,Summer,41.9,Partial Sun,Weekly,Purple,97
+Ezri,Yellow,6,Fall,6.77,Partial Sun,Weekly,Red,62
+Wainwright,Aquamarine,41,Fall,41.99,Full Sun,Daily,Red,74
+Ekaterina,Turquoise,36,Winter,43.01,Full Sun,Weekly,Red,190
+Annemarie,Yellow,33,Fall,6.42,Full Sun,Weekly,Yellow,59
+Quillan,Turquoise,24,Fall,9.49,Shade,Daily,Yellow,80
+Caprice,Indigo,12,Fall,42.1,Partial Sun,Weekly,Purple,75
+Monro,Crimson,53,Spring,18.05,Partial Sun,Bi-weekly,Red,162
+Cristin,Khaki,50,Winter,28.47,Full Sun,Bi-weekly,Yellow,181
+Hill,Blue,58,Fall,38.64,Full Sun,Bi-weekly,Red,43
+Sherwynd,Turquoise,48,Winter,32.67,Full Sun,Bi-weekly,Purple,192
+Cully,Teal,92,Winter,44.1,Full Sun,Daily,Red,53
+Kipper,Green,20,Fall,48.87,Full Sun,Daily,Yellow,56
+Rich,Red,7,Spring,20.08,Full Sun,Weekly,Purple,44
+Ewart,Maroon,69,Winter,22.49,Partial Sun,Weekly,Purple,26
+Vicki,Aquamarine,73,Summer,18.29,Shade,Bi-weekly,Pink,86
+Darrick,Fuscia,6,Summer,14.0,Partial Sun,Bi-weekly,White,107
+Marcile,Orange,32,Fall,7.46,Shade,Bi-weekly,White,81
+Callie,Maroon,51,Fall,26.28,Full Sun,Bi-weekly,Pink,188
+Paulie,Yellow,80,Winter,48.37,Partial Sun,Bi-weekly,Yellow,145
+Nevile,Red,41,Winter,36.39,Shade,Weekly,Red,28
+Delainey,Orange,15,Summer,35.0,Shade,Bi-weekly,Red,84
+Krissy,Goldenrod,35,Fall,32.52,Partial Sun,Bi-weekly,Red,181
+Georgena,Green,5,Spring,14.55,Full Sun,Weekly,White,139
+Cynthy,Violet,11,Fall,56.88,Partial Sun,Weekly,Pink,112
+Kyrstin,Orange,52,Spring,48.99,Partial Sun,Bi-weekly,Purple,95
+Shalna,Maroon,20,Winter,57.92,Partial Sun,Bi-weekly,Pink,131
+Tate,Turquoise,42,Spring,50.58,Partial Sun,Bi-weekly,Pink,133
+Raina,Indigo,81,Spring,11.5,Partial Sun,Bi-weekly,White,181
+Valentina,Crimson,75,Summer,38.07,Shade,Bi-weekly,Pink,142
+Milo,Fuscia,49,Summer,32.4,Partial Sun,Daily,Yellow,162
+Joceline,Orange,77,Winter,12.15,Full Sun,Daily,Yellow,77
+Lonnie,Blue,12,Fall,20.83,Shade,Daily,Yellow,29
+Arman,Crimson,69,Fall,22.39,Partial Sun,Bi-weekly,Purple,171
+Tatiana,Pink,77,Fall,59.94,Shade,Daily,Purple,14
+Elvira,Maroon,61,Fall,19.6,Full Sun,Bi-weekly,Purple,145
+Teresa,Orange,39,Winter,40.26,Shade,Daily,Yellow,180
+Urban,Indigo,37,Fall,29.64,Full Sun,Weekly,Purple,16
+Netty,Mauv,55,Winter,53.31,Partial Sun,Daily,Pink,40
+Mary,Violet,81,Spring,19.61,Shade,Daily,Red,152
+Tansy,Mauv,10,Summer,33.33,Shade,Weekly,Red,50
+Simone,Aquamarine,86,Summer,40.05,Shade,Bi-weekly,Red,29
+Kathie,Puce,79,Winter,44.94,Partial Sun,Weekly,White,155
+Sloane,Green,18,Summer,26.63,Partial Sun,Daily,White,117
+Marilee,Fuscia,40,Fall,20.74,Full Sun,Bi-weekly,Yellow,133
+Wakefield,Pink,30,Fall,12.5,Shade,Weekly,Yellow,25
+Norrie,Red,26,Spring,16.13,Full Sun,Daily,Yellow,127
+Lyn,Blue,14,Winter,31.86,Partial Sun,Daily,Red,137
+Drusie,Mauv,92,Fall,12.59,Full Sun,Bi-weekly,Red,20
+Kelcey,Crimson,40,Fall,26.76,Partial Sun,Bi-weekly,Red,176
+Melessa,Aquamarine,67,Spring,38.59,Full Sun,Bi-weekly,Purple,152
+Sherill,Red,39,Summer,52.85,Shade,Weekly,Pink,51
+Andre,Yellow,20,Fall,50.26,Partial Sun,Daily,Purple,27
+Ely,Blue,67,Summer,58.91,Shade,Weekly,Red,107
+Dun,Puce,8,Spring,56.14,Full Sun,Bi-weekly,Red,156
+Rufus,Goldenrod,6,Summer,15.44,Partial Sun,Daily,White,85
+Rudolfo,Maroon,72,Summer,13.02,Shade,Weekly,Red,70
+Quintilla,Aquamarine,62,Fall,30.08,Shade,Bi-weekly,Red,143
+Lotti,Blue,64,Spring,55.74,Partial Sun,Weekly,White,115
+Blayne,Green,36,Summer,7.1,Full Sun,Weekly,Purple,122
+Melodie,Turquoise,87,Summer,6.67,Shade,Weekly,Pink,75
+Kelila,Maroon,73,Summer,53.42,Partial Sun,Weekly,Purple,40
+Quinton,Puce,39,Spring,23.34,Shade,Weekly,Pink,76
+Lorettalorna,Green,31,Summer,58.41,Partial Sun,Daily,Yellow,147
+Vincent,Mauv,38,Spring,55.54,Partial Sun,Weekly,Pink,41
+Kearney,Teal,38,Winter,6.27,Shade,Bi-weekly,White,42
+Tamma,Violet,73,Winter,25.24,Partial Sun,Weekly,Pink,184
+Meir,Aquamarine,13,Summer,49.29,Shade,Bi-weekly,White,149
+Rhoda,Teal,73,Fall,41.65,Partial Sun,Bi-weekly,White,165
+Krissie,Turquoise,72,Fall,26.26,Partial Sun,Daily,White,161
+Doris,Crimson,41,Winter,8.64,Full Sun,Daily,Pink,150
+Orsa,Yellow,43,Summer,46.17,Shade,Bi-weekly,Yellow,81
+Kimble,Red,81,Summer,44.03,Shade,Daily,Red,60
+Karol,Violet,92,Spring,22.86,Partial Sun,Weekly,Purple,108
+Deidre,Orange,16,Winter,32.18,Shade,Daily,White,79
+Kenny,Khaki,79,Summer,30.8,Shade,Daily,Pink,59
+Arv,Puce,92,Fall,7.68,Shade,Weekly,Red,185
+Florella,Red,60,Spring,39.67,Partial Sun,Bi-weekly,Yellow,134
+Casey,Mauv,83,Winter,24.71,Full Sun,Daily,Purple,57
+Amara,Khaki,86,Spring,29.51,Partial Sun,Bi-weekly,Pink,149
+Jaime,Blue,5,Summer,43.81,Full Sun,Bi-weekly,White,122
+Elia,Teal,55,Winter,14.73,Shade,Daily,Pink,183
+Virgilio,Crimson,71,Winter,51.91,Full Sun,Weekly,Yellow,14
+Diannne,Yellow,98,Summer,32.87,Partial Sun,Daily,Yellow,106
+Gustave,Aquamarine,63,Fall,32.27,Full Sun,Daily,Pink,27
+Torin,Green,50,Spring,47.87,Full Sun,Bi-weekly,Red,177
+Karlyn,Fuscia,18,Spring,29.95,Partial Sun,Bi-weekly,Purple,100
+Lyndsey,Mauv,67,Winter,51.84,Partial Sun,Daily,Purple,191
+Kim,Blue,96,Spring,46.47,Shade,Daily,White,10
+Natasha,Blue,21,Spring,50.18,Partial Sun,Daily,Yellow,183
+Kendricks,Indigo,57,Winter,58.61,Partial Sun,Daily,Yellow,133
+Lewie,Aquamarine,74,Fall,42.74,Shade,Daily,Pink,39
+Teresita,Aquamarine,14,Spring,28.75,Partial Sun,Daily,Pink,63
+Janifer,Green,86,Winter,20.62,Full Sun,Daily,Red,196
+Brittney,Teal,29,Summer,22.69,Shade,Weekly,Pink,173
+Ozzie,Red,39,Spring,17.87,Shade,Bi-weekly,Red,178
+Carleton,Puce,78,Fall,13.85,Partial Sun,Daily,Purple,99
+Eolanda,Green,80,Winter,13.91,Full Sun,Bi-weekly,Red,12
+Timmy,Pink,26,Summer,36.08,Partial Sun,Daily,Purple,162
+Stinky,Fuscia,76,Summer,59.95,Full Sun,Daily,Purple,125
+Shoshanna,Fuscia,25,Fall,35.16,Shade,Bi-weekly,White,174
+Ofella,Yellow,99,Summer,44.69,Shade,Weekly,Purple,40
+Cloris,Orange,71,Fall,12.35,Full Sun,Daily,Red,35
+Marley,Mauv,60,Fall,16.14,Partial Sun,Bi-weekly,White,148
+Trenna,Khaki,8,Spring,13.33,Full Sun,Daily,White,184
+Ransom,Indigo,68,Spring,11.97,Shade,Daily,Pink,29
+Elsy,Purple,85,Winter,47.76,Partial Sun,Daily,White,193
+Amelie,Indigo,91,Winter,24.87,Full Sun,Daily,Pink,129
+Jacquenette,Khaki,88,Spring,56.09,Full Sun,Daily,White,16
+Shirlee,Teal,60,Spring,9.82,Partial Sun,Weekly,Red,73
+Reese,Khaki,100,Winter,54.45,Full Sun,Weekly,Red,85
+Yolande,Teal,28,Winter,44.52,Full Sun,Daily,Yellow,57
+Selinda,Khaki,19,Fall,24.91,Full Sun,Bi-weekly,Pink,10
+Gaylor,Blue,77,Spring,8.13,Partial Sun,Daily,Pink,56
+Kaylyn,Aquamarine,27,Spring,12.94,Partial Sun,Daily,Pink,40
+Quinlan,Aquamarine,88,Fall,58.68,Partial Sun,Bi-weekly,Pink,24
+Hunter,Yellow,83,Winter,58.24,Full Sun,Bi-weekly,White,52
+Palmer,Blue,16,Winter,25.56,Full Sun,Weekly,Yellow,80
+Devlin,Purple,69,Summer,27.82,Shade,Daily,Yellow,50
+Marty,Red,84,Fall,32.44,Shade,Bi-weekly,Yellow,125
+Briano,Fuscia,45,Fall,20.0,Partial Sun,Bi-weekly,Yellow,51
+Sandra,Goldenrod,78,Fall,37.35,Shade,Weekly,Yellow,77
+Sandor,Fuscia,27,Spring,17.09,Partial Sun,Daily,White,174
+Hilary,Khaki,72,Summer,30.01,Partial Sun,Bi-weekly,Pink,199
+Angelo,Indigo,30,Summer,15.65,Partial Sun,Bi-weekly,White,193
+Cristine,Maroon,25,Winter,16.34,Full Sun,Daily,Red,76
+Patricia,Aquamarine,50,Winter,7.9,Shade,Weekly,Red,97
+Gianni,Teal,48,Fall,21.31,Full Sun,Daily,Pink,80
+Lamar,Purple,88,Fall,20.06,Full Sun,Bi-weekly,White,19
+Elvin,Puce,65,Summer,58.9,Shade,Daily,Red,103
+Kinny,Blue,66,Spring,46.33,Partial Sun,Daily,White,46
+Rakel,Yellow,54,Winter,33.13,Partial Sun,Weekly,Purple,110
+Heidi,Purple,13,Fall,32.18,Full Sun,Daily,Yellow,187
+Alan,Red,31,Winter,11.26,Partial Sun,Bi-weekly,Purple,193
+Christel,Turquoise,57,Spring,8.3,Shade,Weekly,Purple,67
+Claresta,Pink,66,Winter,54.53,Shade,Daily,Yellow,33
+Bettina,Khaki,43,Winter,9.64,Full Sun,Bi-weekly,Pink,192
+Jamaal,Puce,42,Winter,30.66,Shade,Weekly,White,105
+Tim,Pink,82,Fall,19.84,Partial Sun,Daily,Pink,56
+Legra,Fuscia,16,Fall,26.04,Full Sun,Bi-weekly,Pink,40
+Sam,Aquamarine,67,Fall,33.23,Partial Sun,Daily,Yellow,126
+Maureen,Aquamarine,20,Fall,8.8,Shade,Bi-weekly,Yellow,101
+Madelyn,Teal,46,Spring,14.0,Full Sun,Weekly,Purple,182
+Cletis,Green,75,Winter,55.16,Shade,Bi-weekly,Purple,44
+Alicia,Maroon,43,Spring,15.95,Partial Sun,Bi-weekly,Pink,96
+Darrin,Teal,72,Summer,12.26,Partial Sun,Weekly,Yellow,45
+Merrie,Maroon,58,Summer,11.88,Full Sun,Bi-weekly,White,50
+Rey,Teal,84,Fall,49.64,Shade,Bi-weekly,White,114
+Lebbie,Puce,12,Fall,51.15,Shade,Daily,Purple,22
+Rodolfo,Fuscia,50,Winter,43.78,Shade,Bi-weekly,Pink,132
+Merrie,Green,11,Fall,28.8,Partial Sun,Weekly,Yellow,65
+Fanny,Blue,75,Winter,39.51,Full Sun,Weekly,White,182
+Gun,Fuscia,95,Fall,10.93,Shade,Bi-weekly,Red,39
+Cal,Puce,85,Fall,9.59,Partial Sun,Daily,Purple,131
+Marci,Maroon,68,Summer,19.37,Partial Sun,Weekly,White,44
+Borden,Puce,76,Winter,48.18,Full Sun,Bi-weekly,Red,190
+Maible,Fuscia,86,Winter,7.68,Full Sun,Daily,Yellow,113
+Kristoforo,Crimson,23,Fall,51.58,Partial Sun,Weekly,Yellow,162
+Ariella,Teal,99,Winter,51.64,Full Sun,Weekly,Pink,28
+Roberta,Orange,72,Summer,43.44,Shade,Bi-weekly,Pink,180
+Franchot,Mauv,44,Winter,26.98,Shade,Daily,Pink,109
+Alair,Purple,100,Spring,25.01,Partial Sun,Bi-weekly,White,10
+Bordie,Blue,89,Fall,35.25,Shade,Weekly,Pink,102
+Dosi,Violet,45,Winter,40.12,Full Sun,Weekly,Yellow,32
+Gaye,Maroon,100,Fall,34.8,Partial Sun,Daily,Purple,150
+Iona,Goldenrod,80,Spring,59.22,Shade,Daily,Purple,172
+Rhianon,Crimson,46,Summer,27.6,Full Sun,Daily,Purple,98
+Keene,Aquamarine,54,Summer,29.24,Full Sun,Weekly,White,100
+Virgie,Puce,90,Winter,8.38,Partial Sun,Weekly,Pink,174
+Masha,Goldenrod,20,Spring,19.48,Partial Sun,Daily,Pink,135
+Clyde,Mauv,56,Summer,18.52,Full Sun,Weekly,White,106
+Foss,Khaki,11,Fall,58.45,Partial Sun,Bi-weekly,Red,187
+Hedvig,Fuscia,62,Summer,38.55,Partial Sun,Weekly,Yellow,155
+Neilla,Purple,22,Summer,14.43,Partial Sun,Bi-weekly,Red,128
+Yankee,Teal,15,Spring,56.86,Partial Sun,Weekly,Yellow,54
+Dix,Red,22,Spring,9.94,Full Sun,Weekly,Red,66
+Arlina,Goldenrod,40,Summer,17.54,Shade,Daily,White,191
+Sula,Green,79,Spring,54.22,Shade,Bi-weekly,Red,25
+Bay,Goldenrod,38,Summer,29.89,Partial Sun,Daily,Yellow,94
+Oswald,Green,18,Winter,36.67,Shade,Weekly,Purple,143
+Brent,Teal,15,Winter,11.7,Full Sun,Weekly,Yellow,68
+Addie,Orange,6,Spring,56.18,Partial Sun,Weekly,Pink,173
+Anastasia,Aquamarine,36,Fall,35.81,Partial Sun,Bi-weekly,Yellow,61
+Artur,Mauv,8,Summer,38.31,Full Sun,Bi-weekly,Yellow,163
+Hayes,Mauv,37,Summer,51.92,Shade,Weekly,Pink,172
+Claude,Blue,39,Summer,28.56,Shade,Bi-weekly,Red,42
+Prue,Teal,34,Spring,59.14,Shade,Bi-weekly,White,100
+Sherrie,Khaki,41,Fall,15.5,Full Sun,Bi-weekly,Purple,167
+Terrill,Crimson,11,Fall,22.56,Full Sun,Weekly,White,27
+Terra,Teal,65,Summer,16.12,Full Sun,Daily,Yellow,174
+Schuyler,Violet,53,Winter,35.93,Shade,Daily,Yellow,19
+Shandra,Red,22,Summer,31.8,Shade,Daily,White,198
+Elberta,Teal,16,Winter,6.99,Partial Sun,Weekly,Red,141
+Andriette,Violet,39,Summer,32.23,Shade,Bi-weekly,Red,139
+Dieter,Aquamarine,36,Winter,16.52,Full Sun,Daily,White,107
+Audrie,Red,35,Summer,22.88,Full Sun,Daily,White,38
+Laird,Pink,16,Winter,16.07,Partial Sun,Daily,White,121
+Humbert,Crimson,36,Summer,16.72,Full Sun,Bi-weekly,Red,51
+Colin,Yellow,13,Spring,38.56,Partial Sun,Daily,Red,111
+Lamont,Fuscia,6,Spring,10.8,Full Sun,Daily,White,80
+Raquel,Orange,58,Winter,20.22,Full Sun,Bi-weekly,Red,163
+Dionysus,Violet,15,Fall,40.58,Full Sun,Bi-weekly,Yellow,146
+Cosette,Maroon,45,Fall,15.11,Shade,Daily,Yellow,146
+Kaine,Red,57,Summer,50.98,Full Sun,Weekly,Pink,168
+Valera,Goldenrod,33,Winter,14.13,Partial Sun,Daily,Pink,37
+Rafi,Khaki,29,Winter,56.22,Shade,Weekly,Yellow,140
+Michael,Crimson,58,Fall,59.15,Shade,Weekly,Purple,107
+Vachel,Violet,79,Fall,50.6,Partial Sun,Weekly,Pink,84
+Archibold,Orange,53,Fall,16.28,Partial Sun,Weekly,Yellow,168
+Pyotr,Teal,77,Spring,23.33,Partial Sun,Weekly,White,60
+Elke,Purple,72,Summer,6.84,Shade,Bi-weekly,Purple,88
+Ashbey,Puce,73,Winter,57.25,Shade,Weekly,White,104
+Reggis,Puce,22,Summer,53.35,Partial Sun,Bi-weekly,Red,116
+Davin,Puce,74,Spring,48.45,Partial Sun,Weekly,Yellow,67
+Ezequiel,Red,41,Spring,54.26,Shade,Bi-weekly,Red,141
+Kippar,Yellow,92,Summer,58.75,Shade,Weekly,Purple,23
+Brigit,Crimson,10,Winter,18.19,Shade,Weekly,Yellow,98
+Roslyn,Yellow,96,Fall,36.85,Partial Sun,Bi-weekly,Red,28
+Lani,Goldenrod,39,Summer,43.31,Shade,Daily,Pink,77
+Davita,Crimson,94,Winter,56.56,Partial Sun,Bi-weekly,Yellow,163
+Ginger,Violet,79,Spring,35.5,Partial Sun,Daily,Yellow,42
+Geri,Fuscia,29,Summer,12.52,Partial Sun,Daily,Red,75
+Fern,Puce,73,Winter,51.94,Full Sun,Bi-weekly,Pink,168
+Modesta,Maroon,44,Summer,34.06,Partial Sun,Weekly,Red,74
+Tammy,Turquoise,9,Winter,36.84,Shade,Daily,Red,132
+Foster,Orange,72,Spring,29.94,Partial Sun,Weekly,Red,104
+Carmelia,Pink,28,Fall,35.92,Partial Sun,Weekly,White,47
+Michael,Violet,33,Summer,17.18,Shade,Bi-weekly,Purple,147
+Gloriane,Green,38,Fall,47.82,Shade,Weekly,Red,47
+Aleta,Goldenrod,74,Summer,17.59,Full Sun,Bi-weekly,Red,25
+Pinchas,Pink,73,Winter,15.82,Full Sun,Bi-weekly,Purple,132
+Loutitia,Teal,32,Winter,43.54,Full Sun,Weekly,Purple,101
+Darb,Orange,32,Spring,44.36,Shade,Weekly,White,24
+Olin,Aquamarine,48,Winter,42.36,Partial Sun,Weekly,White,175
+Elston,Aquamarine,27,Spring,32.82,Shade,Bi-weekly,Purple,53
+Hope,Green,59,Winter,6.93,Partial Sun,Daily,Red,64
+Janel,Yellow,53,Winter,24.41,Full Sun,Daily,White,130
+Nikolas,Green,86,Fall,21.87,Full Sun,Daily,White,146
+Christy,Fuscia,79,Fall,54.66,Full Sun,Bi-weekly,Pink,114
+Kalie,Crimson,15,Spring,45.74,Partial Sun,Daily,Pink,135
+Eugenio,Red,34,Spring,36.9,Shade,Daily,White,66
+Gwynne,Maroon,22,Winter,48.16,Full Sun,Daily,Purple,84
+Larine,Puce,96,Winter,42.85,Partial Sun,Daily,Yellow,175
+Catriona,Blue,71,Summer,52.98,Full Sun,Bi-weekly,Pink,17
+Lamond,Aquamarine,89,Spring,59.24,Shade,Weekly,Yellow,100
+Mariette,Blue,73,Winter,31.31,Full Sun,Weekly,Purple,198
+Dirk,Crimson,25,Fall,18.34,Full Sun,Daily,Purple,87
+Rona,Maroon,41,Winter,55.35,Shade,Weekly,Pink,118
+Vickie,Green,75,Summer,59.13,Shade,Daily,Purple,77
+Jermayne,Violet,51,Fall,55.31,Full Sun,Daily,Yellow,128
+Tracy,Teal,54,Summer,17.99,Partial Sun,Daily,Purple,14
+Nicholas,Blue,33,Spring,30.0,Full Sun,Weekly,Pink,129
+Aubree,Purple,12,Summer,54.59,Full Sun,Daily,White,166
+Cherlyn,Turquoise,81,Winter,56.3,Full Sun,Daily,Yellow,83
+Rouvin,Maroon,29,Spring,15.67,Partial Sun,Daily,Red,66
+Maribelle,Pink,67,Winter,59.5,Full Sun,Bi-weekly,Red,196
+Virgie,Orange,77,Fall,7.65,Full Sun,Weekly,Pink,172
+Elisa,Violet,85,Summer,38.27,Partial Sun,Bi-weekly,Red,121
+Darline,Blue,87,Summer,51.52,Shade,Weekly,Yellow,173
+Janel,Goldenrod,36,Summer,19.88,Shade,Weekly,Pink,80
+Fanya,Aquamarine,100,Fall,21.77,Partial Sun,Bi-weekly,White,144
+Holly,Aquamarine,92,Winter,47.41,Full Sun,Daily,White,19
+Corbie,Turquoise,37,Winter,40.37,Full Sun,Bi-weekly,Pink,154
+Kendre,Teal,42,Winter,29.48,Full Sun,Daily,Red,46
+Mile,Red,74,Spring,19.44,Shade,Daily,Purple,48
+Eudora,Pink,65,Fall,40.81,Full Sun,Weekly,Purple,125
+Den,Mauv,90,Fall,30.26,Full Sun,Bi-weekly,Pink,66
+Kristofer,Khaki,54,Winter,32.41,Shade,Bi-weekly,Pink,192
+Kamila,Teal,10,Spring,47.32,Shade,Weekly,Pink,64
+Sully,Khaki,50,Summer,54.06,Shade,Bi-weekly,Pink,38
+Brandais,Purple,97,Winter,16.61,Full Sun,Bi-weekly,Yellow,81
+Manolo,Aquamarine,92,Summer,49.15,Shade,Weekly,Red,117
+Caye,Fuscia,87,Spring,54.7,Partial Sun,Weekly,Purple,30
+Anna-maria,Teal,70,Spring,8.0,Shade,Weekly,Purple,31
+Carolina,Yellow,21,Fall,47.76,Partial Sun,Weekly,Purple,136
+Brenna,Blue,59,Winter,58.58,Full Sun,Bi-weekly,Red,135
+Gertie,Turquoise,37,Spring,46.18,Partial Sun,Weekly,Pink,148
+Doralia,Red,24,Spring,35.06,Full Sun,Daily,White,79
+Caddric,Yellow,70,Spring,34.33,Shade,Bi-weekly,Yellow,200
+Ulises,Puce,33,Summer,19.97,Shade,Bi-weekly,Red,54
+Analiese,Turquoise,13,Spring,10.69,Partial Sun,Daily,Purple,84
+Stevana,Turquoise,100,Spring,48.75,Shade,Bi-weekly,White,168
+Charmine,Pink,82,Fall,7.1,Full Sun,Bi-weekly,Red,167
+Udell,Maroon,92,Spring,18.13,Full Sun,Bi-weekly,White,94
+Henrie,Aquamarine,72,Winter,57.4,Full Sun,Weekly,Purple,99
+Grethel,Goldenrod,74,Summer,14.28,Shade,Daily,Pink,164
+Dolf,Goldenrod,33,Summer,9.04,Full Sun,Daily,Red,189
+Inna,Mauv,46,Winter,47.86,Full Sun,Bi-weekly,Yellow,146
+Aloysia,Turquoise,86,Summer,8.04,Full Sun,Daily,Pink,26
+Arabela,Pink,6,Spring,32.8,Full Sun,Daily,Purple,127
+Randal,Fuscia,71,Winter,19.0,Shade,Bi-weekly,Purple,20
+Elyn,Khaki,61,Summer,51.01,Full Sun,Daily,White,66
+Alethea,Aquamarine,79,Summer,13.59,Shade,Bi-weekly,White,181
+Milena,Yellow,56,Spring,43.79,Partial Sun,Daily,Yellow,25
+Catherine,Teal,47,Winter,13.63,Full Sun,Daily,White,199
+Wallis,Blue,49,Fall,50.4,Shade,Bi-weekly,Red,127
+Carmen,Goldenrod,62,Fall,12.21,Full Sun,Daily,Purple,94
+Theobald,Khaki,31,Spring,24.15,Shade,Weekly,Purple,78
+Doll,Indigo,37,Fall,16.28,Full Sun,Weekly,Yellow,101
+Jaynell,Goldenrod,87,Fall,51.9,Full Sun,Bi-weekly,Pink,166
+Perl,Violet,74,Winter,28.63,Full Sun,Bi-weekly,Red,56
+Silvanus,Purple,51,Summer,34.35,Partial Sun,Daily,Red,104
+Shaughn,Puce,61,Winter,52.28,Shade,Daily,White,45
+Minni,Khaki,97,Summer,48.19,Full Sun,Bi-weekly,Red,13
+Virge,Fuscia,75,Fall,58.46,Full Sun,Weekly,Purple,104
+Herc,Khaki,77,Winter,10.16,Full Sun,Weekly,Purple,101
+Morly,Crimson,90,Summer,6.95,Shade,Weekly,Purple,188
+Shandeigh,Mauv,21,Summer,50.78,Partial Sun,Daily,Yellow,22
+Mavis,Red,80,Winter,21.64,Full Sun,Daily,White,40
+Missy,Red,27,Winter,16.09,Full Sun,Bi-weekly,Yellow,65
+Xymenes,Pink,23,Summer,55.49,Full Sun,Daily,White,107
+Niels,Crimson,97,Spring,38.34,Shade,Daily,White,71
+Adelheid,Crimson,78,Summer,48.78,Partial Sun,Bi-weekly,Pink,81
+Whitby,Blue,69,Fall,37.04,Shade,Daily,Yellow,31
+Peyton,Maroon,90,Summer,35.57,Full Sun,Bi-weekly,Yellow,179
+Webb,Aquamarine,57,Summer,15.07,Full Sun,Weekly,Red,44
+Lynnell,Maroon,72,Spring,39.48,Full Sun,Weekly,White,59
+Minetta,Purple,42,Summer,14.97,Full Sun,Weekly,White,163
+Zulema,Indigo,99,Winter,17.29,Partial Sun,Daily,White,122
+Allyce,Fuscia,60,Fall,54.69,Full Sun,Weekly,Red,134
+Muffin,Yellow,16,Summer,38.85,Shade,Daily,Yellow,189
+Carlyle,Turquoise,85,Winter,10.55,Partial Sun,Weekly,Purple,27
+Lincoln,Violet,86,Winter,29.35,Shade,Daily,Pink,183
+Kati,Khaki,85,Spring,27.47,Full Sun,Daily,Red,148
+Yorgos,Teal,17,Spring,12.77,Partial Sun,Weekly,Pink,102
+Nels,Violet,18,Spring,41.86,Partial Sun,Weekly,Red,131
+Brianna,Khaki,72,Summer,11.31,Full Sun,Daily,Red,107
+Jarid,Fuscia,44,Spring,6.49,Partial Sun,Daily,Purple,30
+Elysia,Green,47,Winter,36.33,Partial Sun,Bi-weekly,Pink,118
+Sileas,Violet,41,Fall,58.16,Partial Sun,Bi-weekly,White,114
+Ase,Turquoise,94,Fall,6.77,Shade,Daily,Red,48
+Maud,Teal,22,Winter,28.1,Partial Sun,Bi-weekly,Yellow,45
+Kassey,Fuscia,55,Spring,44.42,Full Sun,Weekly,Purple,198
+Diena,Orange,84,Summer,7.02,Full Sun,Daily,White,72
+Ferdinand,Turquoise,34,Winter,20.5,Partial Sun,Bi-weekly,Red,144
+Madelin,Fuscia,100,Fall,50.25,Full Sun,Daily,White,45
+Daron,Khaki,92,Fall,10.44,Partial Sun,Bi-weekly,White,13
+Almire,Khaki,92,Fall,58.81,Partial Sun,Bi-weekly,Pink,91
+Sharyl,Aquamarine,66,Fall,33.04,Partial Sun,Bi-weekly,Pink,87
+Rainer,Aquamarine,92,Spring,52.63,Partial Sun,Bi-weekly,White,168
+Elga,Pink,52,Fall,31.69,Shade,Bi-weekly,Purple,172
+Murvyn,Red,54,Spring,51.8,Shade,Daily,White,129
+Dara,Goldenrod,79,Fall,30.3,Partial Sun,Bi-weekly,Yellow,93
+Cindi,Crimson,70,Fall,57.53,Shade,Weekly,Red,73
+Stavros,Maroon,62,Fall,39.32,Shade,Weekly,Purple,133
+Jocelin,Puce,90,Winter,8.28,Shade,Weekly,Yellow,119
+Karl,Pink,22,Spring,17.57,Full Sun,Weekly,Purple,173
+Gustave,Yellow,51,Summer,54.05,Full Sun,Bi-weekly,Pink,13
+Moore,Goldenrod,18,Summer,56.0,Partial Sun,Weekly,Purple,61
+Ulrike,Pink,10,Winter,42.65,Full Sun,Bi-weekly,Pink,137
+Constantine,Turquoise,89,Spring,26.24,Shade,Bi-weekly,Pink,199
+Elset,Violet,93,Fall,7.1,Partial Sun,Weekly,Yellow,21
+Antoni,Goldenrod,35,Fall,46.55,Shade,Weekly,White,80
+Suzie,Pink,13,Winter,44.05,Partial Sun,Daily,White,110
+Bailie,Orange,85,Summer,47.34,Full Sun,Daily,Pink,164
+Corinna,Khaki,26,Winter,31.94,Shade,Daily,Red,36
+Lester,Turquoise,65,Fall,31.61,Full Sun,Bi-weekly,Pink,136
+Carson,Crimson,7,Summer,43.42,Shade,Bi-weekly,Purple,34
+Sallyann,Khaki,100,Fall,9.26,Partial Sun,Daily,White,123
+Caprice,Aquamarine,38,Spring,24.63,Partial Sun,Daily,Red,94
+Erinn,Maroon,95,Winter,49.77,Shade,Daily,Red,102
+Christophe,Red,48,Fall,47.38,Partial Sun,Bi-weekly,Red,43
+Packston,Aquamarine,82,Winter,35.57,Partial Sun,Bi-weekly,Purple,166
+Delora,Goldenrod,73,Spring,34.97,Shade,Bi-weekly,Pink,72
+Tamma,Khaki,31,Winter,16.66,Full Sun,Bi-weekly,White,12
+Teriann,Puce,79,Fall,47.92,Shade,Bi-weekly,Pink,11
+Phyllys,Crimson,59,Summer,24.74,Shade,Weekly,White,59
+Cosimo,Turquoise,33,Fall,25.86,Partial Sun,Bi-weekly,White,159
+Rosemonde,Goldenrod,9,Spring,10.84,Full Sun,Weekly,Yellow,193
+Darell,Pink,99,Spring,45.8,Shade,Bi-weekly,Yellow,189
+Susie,Fuscia,78,Summer,46.37,Full Sun,Daily,Yellow,11
+Bevvy,Teal,89,Winter,21.36,Full Sun,Daily,White,127
+Glendon,Indigo,49,Winter,21.64,Shade,Weekly,Yellow,31
+Carlotta,Orange,28,Summer,16.71,Partial Sun,Daily,Yellow,145
+Zora,Maroon,6,Spring,30.73,Shade,Weekly,Yellow,23
+Tasia,Red,27,Spring,22.0,Partial Sun,Weekly,Yellow,54
+Chaddie,Blue,99,Spring,31.75,Shade,Weekly,Purple,15
+Armstrong,Orange,40,Winter,19.82,Full Sun,Weekly,Purple,131
+Lucian,Mauv,45,Summer,21.89,Shade,Daily,White,166
+Karna,Turquoise,74,Spring,29.94,Shade,Bi-weekly,Red,169
+Janeta,Green,10,Fall,19.4,Shade,Weekly,Yellow,28
+Reginald,Pink,40,Summer,49.43,Partial Sun,Bi-weekly,Pink,106
+Fair,Maroon,36,Summer,10.63,Partial Sun,Weekly,Red,176
+Jacynth,Pink,15,Spring,41.34,Partial Sun,Bi-weekly,Yellow,102
+Nikoletta,Crimson,32,Spring,39.79,Partial Sun,Weekly,Yellow,14
+Gerry,Violet,60,Winter,42.97,Full Sun,Bi-weekly,Red,102
+Ashly,Yellow,97,Summer,32.7,Full Sun,Weekly,Yellow,25
+Jeramie,Blue,30,Fall,39.39,Full Sun,Daily,Yellow,199
+Raynor,Fuscia,73,Summer,31.86,Partial Sun,Weekly,Yellow,173
+Thor,Crimson,20,Summer,17.88,Shade,Weekly,White,107
+Gladys,Mauv,40,Summer,55.39,Partial Sun,Weekly,Yellow,18
+Luz,Purple,86,Fall,15.87,Full Sun,Weekly,Pink,172
+Lian,Aquamarine,48,Summer,41.62,Shade,Bi-weekly,Yellow,34
+Rochester,Blue,52,Fall,55.05,Full Sun,Bi-weekly,Red,146
+Aldon,Maroon,98,Summer,40.22,Full Sun,Bi-weekly,Pink,149
+Andrei,Violet,33,Fall,40.75,Shade,Weekly,Pink,53
+Hetty,Turquoise,80,Spring,33.32,Full Sun,Weekly,White,10
+Lilith,Crimson,52,Summer,10.74,Shade,Daily,White,26
+Elsinore,Violet,23,Winter,33.06,Shade,Weekly,Purple,19
+Eveleen,Red,9,Summer,51.54,Shade,Weekly,Purple,70
+Jodee,Blue,45,Spring,31.06,Full Sun,Weekly,Yellow,70
+Xaviera,Teal,91,Spring,13.99,Full Sun,Bi-weekly,Purple,177
+Gawen,Goldenrod,74,Summer,30.54,Shade,Daily,Purple,22
+Agretha,Fuscia,22,Winter,51.89,Partial Sun,Weekly,White,180
+Waldo,Aquamarine,86,Spring,19.39,Full Sun,Bi-weekly,Pink,71
+Chrisse,Khaki,90,Fall,7.26,Full Sun,Weekly,Pink,192
+Valry,Goldenrod,74,Summer,19.05,Partial Sun,Bi-weekly,White,140
+Inge,Pink,15,Fall,30.55,Shade,Weekly,White,133
+Saba,Red,97,Winter,7.12,Full Sun,Weekly,Yellow,73
+Archibold,Mauv,13,Fall,18.06,Shade,Bi-weekly,Yellow,125
+Nikaniki,Khaki,25,Summer,51.69,Partial Sun,Bi-weekly,Red,73
+Brocky,Teal,21,Summer,9.38,Shade,Weekly,Pink,182
+Marcia,Teal,26,Fall,6.74,Partial Sun,Bi-weekly,Red,73
+Omero,Yellow,57,Winter,47.53,Full Sun,Weekly,Red,176
+Octavius,Violet,62,Summer,49.05,Shade,Daily,Purple,22
+Toby,Crimson,11,Spring,35.48,Full Sun,Daily,Pink,100
+Effie,Purple,69,Spring,14.26,Partial Sun,Bi-weekly,Purple,101
+Faulkner,Khaki,79,Summer,16.44,Full Sun,Daily,Red,50
+Suzi,Yellow,72,Spring,24.85,Shade,Weekly,Red,159
+Arlyne,Green,8,Fall,52.15,Partial Sun,Weekly,White,109
+Silvan,Fuscia,29,Spring,43.38,Full Sun,Weekly,Pink,146
+Shirleen,Orange,19,Fall,29.36,Full Sun,Weekly,Pink,160
+Katrina,Teal,78,Fall,54.28,Partial Sun,Daily,Purple,194
+Mirabelle,Goldenrod,78,Spring,33.9,Partial Sun,Daily,White,158
+Minerva,Teal,72,Fall,36.03,Shade,Daily,Yellow,28
+Rosalynd,Green,71,Winter,57.38,Partial Sun,Bi-weekly,White,160
+Bibbye,Pink,72,Spring,21.16,Full Sun,Bi-weekly,Pink,20
+Ceciley,Purple,40,Winter,11.87,Partial Sun,Bi-weekly,White,197
+Tracey,Orange,32,Summer,34.05,Partial Sun,Bi-weekly,Red,20
+Meier,Aquamarine,96,Summer,36.0,Shade,Bi-weekly,Yellow,16
+Sofie,Aquamarine,20,Summer,46.64,Full Sun,Weekly,Red,185
+Pepito,Green,71,Spring,11.88,Shade,Bi-weekly,Red,61
+Meredeth,Crimson,37,Summer,22.65,Full Sun,Bi-weekly,Pink,97
+Piotr,Crimson,55,Fall,50.2,Partial Sun,Weekly,Pink,73
+Debor,Indigo,84,Spring,12.76,Full Sun,Daily,Purple,40
+Ardene,Maroon,80,Fall,59.21,Partial Sun,Bi-weekly,White,79
+Elizabet,Green,97,Winter,38.04,Partial Sun,Weekly,Yellow,42
+Neville,Orange,93,Fall,24.84,Full Sun,Daily,Red,67
+Shepherd,Aquamarine,80,Spring,42.25,Full Sun,Weekly,Red,101
+Erny,Yellow,94,Fall,49.96,Full Sun,Bi-weekly,Red,118
+Lilyan,Turquoise,51,Spring,35.67,Shade,Weekly,Yellow,185
+Donall,Teal,38,Fall,26.82,Shade,Bi-weekly,Red,112
+Silas,Puce,65,Summer,19.09,Shade,Bi-weekly,Pink,168
+Willi,Khaki,16,Winter,11.57,Partial Sun,Weekly,Pink,112
+Tim,Aquamarine,30,Spring,15.85,Partial Sun,Weekly,Purple,96
+Rog,Fuscia,68,Spring,53.86,Partial Sun,Weekly,Yellow,101
+Packston,Mauv,66,Summer,40.43,Shade,Bi-weekly,Yellow,175
+Cyndy,Red,42,Spring,45.14,Shade,Bi-weekly,Pink,68
+Dan,Blue,7,Winter,15.04,Partial Sun,Bi-weekly,White,77
+Jacinda,Green,30,Fall,26.2,Partial Sun,Daily,Purple,174
+Dionis,Goldenrod,59,Summer,15.18,Full Sun,Weekly,Red,42
+Ebba,Teal,47,Summer,40.23,Partial Sun,Daily,Red,61
+Dane,Indigo,39,Summer,36.2,Full Sun,Daily,Yellow,39
+Jannelle,Red,98,Fall,27.14,Full Sun,Bi-weekly,Pink,103
+Clarinda,Orange,48,Winter,41.71,Full Sun,Bi-weekly,Pink,41
+Elissa,Purple,60,Summer,12.99,Full Sun,Bi-weekly,Yellow,137
+Bourke,Crimson,98,Summer,45.55,Full Sun,Daily,White,106
+Odille,Green,12,Summer,35.97,Shade,Weekly,Yellow,119
+Fidelity,Aquamarine,49,Fall,15.25,Shade,Weekly,Red,28
+Maryjo,Indigo,21,Spring,46.0,Partial Sun,Daily,Yellow,142
+Isabelle,Puce,15,Fall,16.94,Shade,Weekly,Red,31
+Jill,Aquamarine,53,Winter,15.09,Full Sun,Weekly,Purple,103
+Reynolds,Violet,87,Summer,27.1,Full Sun,Bi-weekly,Red,180
+Bendix,Mauv,63,Spring,50.59,Full Sun,Bi-weekly,Purple,106
+Hertha,Crimson,95,Fall,18.23,Shade,Bi-weekly,White,50
+Romonda,Maroon,62,Winter,26.54,Shade,Daily,Red,63
+Maryanne,Purple,7,Spring,8.35,Full Sun,Bi-weekly,Purple,180
+Tracey,Fuscia,14,Winter,43.74,Partial Sun,Weekly,White,11
+Hastie,Yellow,11,Fall,16.69,Partial Sun,Bi-weekly,Yellow,125
+Olva,Green,90,Spring,10.05,Shade,Weekly,Yellow,17
+Michel,Violet,99,Winter,39.58,Shade,Bi-weekly,Red,31
+Rickie,Maroon,71,Summer,22.23,Shade,Daily,Red,116
+Marylinda,Indigo,62,Summer,10.37,Full Sun,Bi-weekly,Purple,96
+Delphinia,Maroon,53,Spring,37.17,Partial Sun,Daily,White,60
+Stevena,Yellow,65,Summer,11.19,Full Sun,Weekly,Red,73
+Travus,Maroon,28,Winter,34.86,Shade,Weekly,Red,37
+Vera,Turquoise,35,Spring,31.45,Full Sun,Weekly,Pink,101
+Clemens,Yellow,9,Summer,46.01,Full Sun,Bi-weekly,Purple,100
+Darlleen,Teal,7,Summer,49.79,Full Sun,Bi-weekly,Pink,135
+Ronda,Yellow,74,Spring,6.21,Partial Sun,Daily,White,37
+Noland,Khaki,52,Summer,38.53,Shade,Bi-weekly,White,49
+Carlee,Goldenrod,79,Spring,34.8,Shade,Daily,Pink,127
+Haywood,Puce,51,Spring,12.07,Full Sun,Weekly,Purple,78
+Hayden,Blue,25,Winter,24.99,Partial Sun,Weekly,Red,75
+Roger,Aquamarine,52,Fall,39.19,Partial Sun,Daily,White,86
+Rock,Turquoise,60,Spring,45.75,Shade,Bi-weekly,Purple,26
+Jonis,Blue,38,Spring,6.58,Partial Sun,Weekly,White,14
+Antoine,Goldenrod,57,Spring,43.91,Shade,Daily,White,127
+Zack,Aquamarine,45,Fall,44.36,Full Sun,Daily,Red,112
+Ryley,Khaki,82,Winter,30.3,Partial Sun,Weekly,Yellow,20
+Thayne,Teal,92,Winter,14.13,Full Sun,Daily,Yellow,11
+Glen,Maroon,88,Fall,27.63,Partial Sun,Weekly,White,111
+Jarrid,Orange,98,Winter,40.48,Shade,Daily,Pink,26
+Nikki,Turquoise,12,Fall,8.8,Partial Sun,Daily,Red,62
+Boot,Puce,77,Spring,11.53,Shade,Weekly,Pink,17
+Gal,Red,90,Summer,45.49,Full Sun,Bi-weekly,White,157
+Maye,Goldenrod,98,Winter,22.22,Full Sun,Daily,White,26
+Joelly,Purple,33,Winter,15.98,Partial Sun,Weekly,Red,194
+Robbin,Puce,22,Summer,40.61,Partial Sun,Daily,Purple,83
+Torry,Crimson,7,Fall,37.45,Shade,Daily,Yellow,68
+Pip,Blue,94,Fall,29.67,Partial Sun,Daily,Yellow,21
+Phineas,Yellow,31,Winter,40.27,Full Sun,Weekly,Pink,85
+Mirella,Blue,15,Summer,39.49,Partial Sun,Weekly,Purple,185
+Maurine,Crimson,98,Summer,20.1,Full Sun,Weekly,Red,153
+Hobey,Maroon,85,Summer,52.03,Partial Sun,Weekly,Pink,96
+Auberta,Fuscia,30,Fall,57.36,Partial Sun,Weekly,White,104
+Gorden,Khaki,54,Summer,19.95,Shade,Weekly,Purple,40
+Cynthea,Puce,7,Summer,38.79,Full Sun,Weekly,White,41
+Renado,Maroon,84,Spring,19.46,Shade,Bi-weekly,Purple,189
+Zoe,Red,75,Winter,27.85,Full Sun,Weekly,Yellow,123
+Travis,Goldenrod,90,Summer,30.17,Shade,Daily,Pink,40
+Adina,Aquamarine,18,Winter,37.61,Shade,Daily,Pink,104
+Isahella,Mauv,33,Fall,36.18,Full Sun,Weekly,Pink,126
+Neely,Fuscia,63,Spring,54.13,Shade,Weekly,Pink,62
+Amalea,Crimson,23,Winter,29.99,Shade,Daily,Purple,65
+Ofilia,Orange,11,Spring,56.0,Full Sun,Weekly,White,52
+Clio,Crimson,41,Fall,35.81,Partial Sun,Daily,Pink,48
+Jess,Yellow,65,Winter,55.07,Full Sun,Bi-weekly,Pink,132
+Valina,Turquoise,15,Summer,7.59,Partial Sun,Weekly,Pink,14
+Starla,Blue,21,Summer,14.77,Partial Sun,Bi-weekly,White,179
+Patty,Blue,42,Summer,10.72,Full Sun,Bi-weekly,Pink,113
+Gabe,Violet,45,Winter,17.71,Shade,Daily,Pink,122
+Anatole,Purple,92,Spring,13.13,Partial Sun,Weekly,Purple,21
+Sigismond,Aquamarine,64,Summer,41.0,Full Sun,Daily,Red,57
+Odessa,Pink,79,Winter,39.97,Full Sun,Weekly,White,48
+Tawnya,Goldenrod,82,Fall,59.94,Full Sun,Bi-weekly,Yellow,179
+Kettie,Indigo,63,Fall,32.14,Full Sun,Bi-weekly,White,144
+Buddie,Purple,42,Winter,22.76,Partial Sun,Weekly,Pink,200
+Sergeant,Orange,61,Summer,28.21,Full Sun,Bi-weekly,Red,79
+Naoma,Red,66,Summer,59.9,Partial Sun,Daily,Red,58
+Gerrilee,Indigo,14,Summer,23.1,Shade,Bi-weekly,Purple,192
+Aida,Orange,90,Summer,56.01,Shade,Bi-weekly,Red,28
+Kip,Orange,6,Fall,23.63,Partial Sun,Bi-weekly,Red,104
+Scott,Indigo,60,Summer,59.36,Partial Sun,Weekly,White,47
+Patrice,Orange,92,Fall,35.18,Full Sun,Bi-weekly,Pink,182
+Stacee,Yellow,84,Summer,26.87,Shade,Bi-weekly,Pink,66
+Sapphira,Goldenrod,54,Spring,54.15,Partial Sun,Weekly,White,26
+Missie,Goldenrod,72,Fall,42.58,Partial Sun,Daily,White,48
+Leonie,Puce,18,Spring,12.67,Full Sun,Weekly,White,32
+Lura,Maroon,46,Spring,45.24,Full Sun,Weekly,Yellow,88
+Garrek,Violet,35,Spring,21.72,Shade,Daily,Pink,163
+Oneida,Turquoise,51,Fall,49.69,Shade,Weekly,Yellow,48
+Charleen,Violet,15,Winter,11.13,Shade,Daily,Red,172
+Bernadine,Red,42,Fall,54.84,Full Sun,Bi-weekly,Red,108
+Joye,Turquoise,70,Spring,59.7,Full Sun,Daily,Purple,127
+Grannie,Violet,55,Fall,6.22,Shade,Bi-weekly,Pink,67
+Tobie,Pink,25,Fall,33.09,Shade,Bi-weekly,Red,85
+Traver,Mauv,66,Winter,32.2,Full Sun,Daily,Red,98
+Alisun,Crimson,70,Winter,33.56,Partial Sun,Bi-weekly,Purple,37
+Alessandro,Maroon,75,Summer,23.86,Shade,Bi-weekly,Pink,126
+Camey,Yellow,44,Spring,36.8,Shade,Bi-weekly,Purple,23
+Carri,Red,80,Summer,50.81,Shade,Weekly,White,117
+Annette,Aquamarine,43,Spring,36.14,Partial Sun,Bi-weekly,Yellow,102
+Addie,Purple,72,Fall,32.2,Full Sun,Daily,White,156
+Dietrich,Turquoise,34,Summer,56.52,Shade,Bi-weekly,Purple,200
+Phil,Goldenrod,85,Fall,29.43,Shade,Bi-weekly,White,166
+Maisie,Indigo,15,Fall,38.98,Shade,Daily,Yellow,149
+Marcos,Turquoise,76,Summer,44.14,Shade,Daily,Pink,124
+Hewet,Green,68,Summer,37.68,Shade,Daily,Yellow,28
+Kevan,Goldenrod,36,Summer,35.35,Partial Sun,Daily,Yellow,87
+Gussy,Orange,35,Fall,51.91,Shade,Daily,Yellow,93
+Karie,Goldenrod,30,Winter,29.42,Shade,Weekly,Purple,133
+Anthe,Maroon,35,Fall,10.15,Full Sun,Bi-weekly,Red,133
+Hollyanne,Teal,53,Winter,25.04,Full Sun,Weekly,Pink,102
+Sherman,Orange,28,Spring,42.11,Shade,Bi-weekly,Purple,64
+Maribel,Aquamarine,10,Fall,59.82,Shade,Weekly,Red,13
+Frances,Mauv,53,Summer,14.47,Partial Sun,Daily,Pink,26
+Geri,Turquoise,6,Winter,59.0,Full Sun,Bi-weekly,Yellow,141
+Gui,Green,43,Winter,43.98,Partial Sun,Bi-weekly,Purple,126
+Vidovic,Puce,9,Winter,10.9,Partial Sun,Weekly,White,88
+Errick,Khaki,52,Fall,51.64,Partial Sun,Bi-weekly,Pink,147
+Farleigh,Indigo,64,Winter,18.05,Full Sun,Bi-weekly,White,18
+Terra,Mauv,73,Fall,22.04,Shade,Bi-weekly,Red,168
+Babbette,Mauv,90,Fall,7.15,Partial Sun,Daily,White,182
+Jayson,Violet,38,Spring,34.88,Partial Sun,Weekly,Pink,54
+Rory,Purple,97,Summer,31.14,Shade,Bi-weekly,Red,24
+Ervin,Turquoise,32,Winter,47.51,Shade,Bi-weekly,Pink,103
+Jade,Goldenrod,30,Fall,20.71,Full Sun,Weekly,Red,122
+Paxon,Indigo,27,Fall,39.07,Partial Sun,Bi-weekly,Red,179
+Della,Teal,70,Summer,32.63,Full Sun,Weekly,Yellow,120
+Alwyn,Pink,65,Fall,51.99,Full Sun,Bi-weekly,Red,34
+Rachel,Green,11,Fall,44.92,Shade,Daily,Yellow,34
+Dorian,Mauv,44,Summer,8.28,Full Sun,Bi-weekly,Yellow,80
+Dionis,Aquamarine,42,Summer,17.08,Partial Sun,Bi-weekly,Purple,126
+Windy,Mauv,39,Winter,49.79,Shade,Bi-weekly,Yellow,45
+Iseabal,Blue,44,Summer,31.61,Shade,Bi-weekly,White,46
+Krystalle,Green,67,Fall,59.48,Partial Sun,Bi-weekly,Red,165
+Lucinda,Violet,70,Summer,41.99,Shade,Weekly,Pink,83
+Arlene,Blue,35,Winter,20.85,Shade,Bi-weekly,Yellow,136
+Rich,Green,84,Summer,55.37,Partial Sun,Bi-weekly,Red,89
+Hussein,Aquamarine,47,Fall,9.7,Partial Sun,Bi-weekly,Purple,163
+Gareth,Indigo,54,Fall,12.7,Partial Sun,Bi-weekly,Purple,28
+Berty,Violet,84,Spring,37.3,Partial Sun,Weekly,White,39
+Meridel,Blue,17,Fall,13.27,Full Sun,Weekly,Pink,114
+Ethelind,Red,26,Winter,8.56,Partial Sun,Weekly,Pink,99
+Louisette,Red,42,Summer,16.47,Full Sun,Bi-weekly,Purple,181
+Gwyn,Goldenrod,36,Fall,10.86,Full Sun,Weekly,Purple,173
+Salome,Maroon,53,Summer,21.12,Full Sun,Daily,Pink,13
+Barbi,Maroon,36,Winter,51.53,Shade,Bi-weekly,Yellow,76
+Kalil,Yellow,26,Summer,27.65,Full Sun,Weekly,Purple,16
+Sibyl,Crimson,20,Summer,34.18,Full Sun,Bi-weekly,Pink,40
+Alfonso,Violet,25,Fall,39.83,Partial Sun,Bi-weekly,Red,36
+Helge,Teal,84,Fall,47.34,Full Sun,Daily,Yellow,52
+Quintilla,Yellow,37,Spring,45.99,Shade,Daily,Red,126
+Shaun,Mauv,47,Winter,44.8,Shade,Bi-weekly,Purple,79
+Brenn,Maroon,68,Spring,45.37,Full Sun,Bi-weekly,Red,91
+Sammie,Pink,45,Winter,58.81,Shade,Daily,Pink,15
+Filmer,Puce,71,Winter,28.35,Full Sun,Weekly,Yellow,134
+Trip,Blue,30,Summer,14.74,Partial Sun,Daily,Purple,70
+Analiese,Puce,6,Winter,58.18,Full Sun,Daily,Purple,83
+Julee,Green,92,Summer,56.54,Full Sun,Weekly,Red,56
+Abigael,Violet,80,Winter,31.85,Full Sun,Daily,White,54
+Normand,Teal,50,Spring,56.4,Shade,Weekly,Purple,24
+Rodi,Indigo,19,Fall,38.92,Full Sun,Daily,White,181
+Kristian,Blue,59,Summer,40.12,Partial Sun,Bi-weekly,Yellow,13
+Kelcie,Khaki,14,Spring,18.26,Partial Sun,Daily,White,36
+Zorana,Violet,10,Spring,22.01,Partial Sun,Bi-weekly,Purple,188
+Kessia,Blue,47,Fall,16.39,Full Sun,Weekly,Purple,80
+Sondra,Goldenrod,95,Summer,49.69,Partial Sun,Weekly,Pink,165
+Hailee,Indigo,32,Winter,54.7,Partial Sun,Bi-weekly,Purple,155
+Nevin,Goldenrod,51,Winter,53.85,Partial Sun,Bi-weekly,Pink,114
+Herculie,Crimson,87,Spring,43.88,Partial Sun,Daily,Pink,61
+Alvie,Violet,50,Spring,22.13,Shade,Weekly,White,21
+Geralda,Red,25,Spring,45.74,Full Sun,Bi-weekly,Purple,83
+Hiram,Blue,60,Fall,13.99,Partial Sun,Weekly,White,184
+Alisander,Green,78,Spring,7.25,Partial Sun,Daily,White,40
+Sven,Crimson,68,Summer,30.52,Full Sun,Bi-weekly,Pink,32
+Heindrick,Orange,30,Spring,12.16,Full Sun,Bi-weekly,Red,171
+Kristen,Puce,15,Summer,38.46,Full Sun,Daily,Red,152
+Rouvin,Aquamarine,68,Fall,55.42,Partial Sun,Weekly,Pink,122
+Rafe,Yellow,6,Fall,53.71,Shade,Bi-weekly,Purple,60
+Borden,Orange,45,Fall,17.26,Partial Sun,Weekly,Purple,13
+Glennie,Pink,9,Summer,9.85,Shade,Weekly,Purple,27
+Araldo,Mauv,22,Winter,18.25,Full Sun,Weekly,Red,45
+Turner,Violet,97,Winter,12.46,Partial Sun,Daily,Yellow,10
+Debbie,Violet,55,Fall,10.01,Partial Sun,Bi-weekly,Red,121
+Hadley,Indigo,64,Spring,50.57,Partial Sun,Daily,Red,161
+Barbabas,Maroon,78,Spring,54.59,Partial Sun,Daily,Yellow,170
+Kristien,Crimson,91,Winter,19.05,Full Sun,Daily,Red,57
+Orazio,Puce,64,Spring,35.77,Partial Sun,Bi-weekly,White,151
+Sal,Green,76,Winter,45.01,Partial Sun,Weekly,Red,133
+Monte,Pink,51,Spring,50.91,Partial Sun,Bi-weekly,Purple,93
+Chic,Goldenrod,85,Spring,58.75,Partial Sun,Daily,White,57
+Marena,Blue,6,Fall,10.58,Full Sun,Daily,Red,190
+Elihu,Puce,90,Spring,53.38,Shade,Bi-weekly,White,181
+Marj,Maroon,6,Spring,59.39,Partial Sun,Daily,White,88
+Jilli,Red,62,Winter,6.46,Full Sun,Daily,White,62
+Jacintha,Goldenrod,73,Summer,31.82,Full Sun,Daily,White,135
+Winonah,Green,94,Winter,38.63,Partial Sun,Bi-weekly,White,139
